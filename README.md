@@ -1,35 +1,23 @@
 <!--
 **Haticeikkan/Haticeikkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<h1>
-  HEY THERE
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+<h2>
+  Hi There 👋
+</h2>
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG51amZyZjVmdGNxeWV2d3Q2b2MwN2txZ2dmbjk3cTJqdmU3eXYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="300"/>
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=My Name is Hatice İKKAN!+👋;Nice+to+see+you+🧡& center=true&size=25">
-</p>
-<div id="header" align="center">
+  </p>
+ <div id="header" align="center">
    <div id="badges">
     <a href="https://www.linkedin.com/in/Haticeikkan/">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a> <br>
-   <img src="https://komarev.com/ghpvc/?username=Haticeikkan&style=flat-square&color=blue" alt=""/>
+     <img src="https://komarev.com/ghpvc/?username=Haticeikkan&style=flat-square&color=blue" alt=""/>
+   </div>
   </div>
 </div>
 
@@ -38,13 +26,13 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I am a Software Developer  from Turkey.
 
-- 🎓 As oj June 2022, I graduated from Sakarya University Information System Engineering .
+- 🎓 As oj June 2022, I graduated from Sakarya University Information Systems Engineering .
 
 - :telescope: I am interested in frontend and backend for building web applications.
 
-- :zap: In my free time, I improve myself and read tech articles.
-
 - 🖥️  I love writing code and learn anythings about it.
+
+- :zap: I'm always trying to improve myself.
 
 - :mailbox: How to reach me: [haticeikkan@hotmail.com](mailto:haticeikkan@hotmail.com)
 
@@ -52,7 +40,6 @@ I am a Software Developer  from Turkey.
 
 ### :hammer_and_wrench:  Languages & Frameworks & Tools & Abilities :
 <div align="center">
-  <p align="left">
   <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>  
@@ -70,18 +57,18 @@ I am a Software Developer  from Turkey.
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://trello.com/tr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" title="Trello" alt="Trello" width="40" height="40"/> </a> </p>
+  <a href="https://trello.com/tr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" title="Trello" alt="Trello" width="40" height="40"/> </a>
 </div>
 
 ---
 
 ### :fire: My Stats :fire:
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Haticeikkan&theme=dark&background=000000" alt="Haticeİkkan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haticeikkan&layout=compact&theme=vision-friendly-dark" alt="Haticeİkkan" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haticeikkan&layout=compact&theme=vision-friendly-dark" alt="Haticeİkkan" /> &nbsp;&nbsp;
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Haticeikkan&theme=dark&background=000000" alt="Haticeİkkan" /> &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Haticeikkan&show_icons=true&theme=radical" alt="Haticeİkkan" />
 </div>
 
