@@ -7,18 +7,17 @@
 </h2>
 
 <div align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG51amZyZjVmdGNxeWV2d3Q2b2MwN2txZ2dmbjk3cTJqdmU3eXYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="300"/>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=My Name is Hatice İKKAN!+👋;Nice+to+see+you+🧡& center=true&size=25">
-  </p>
- <div id="header" align="center">
-   <div id="badges">
-    <a href="https://www.linkedin.com/in/Haticeikkan/">
-       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> <br>
-     <img src="https://komarev.com/ghpvc/?username=Haticeikkan&style=flat-square&color=blue" alt=""/>
-   </div>
-  </div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG51amZyZjVmdGNxeWV2d3Q2b2MwN2txZ2dmbjk3cTJqdmU3eXYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="300"/>
+    <div id="header" align="center">
+      <div id="badges">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Name+is+Hatice+%C4%B0KKAN++%F0%9F%91%8B+;Nice+to+see+you+%F0%9F%A7%A1" alt="Typing SVG" />
+        <br>
+        <a href="https://www.linkedin.com/in/Haticeikkan/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <br>
+        <img src="https://komarev.com/ghpvc/?username=Haticeikkan&style=flat-square&color=blue" alt=""/>
+      </div>
+    </div>
 </div>
 
 ---
@@ -51,7 +50,7 @@ I am a Software Developer  from Turkey.
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://visualstudio.microsoft.com/tr/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/2015+microsoft+visualstudio+icon-1320192290698095218.png" title="VisualStudio" alt="VisualStudio" width="40" height="40"/> &nbsp; </a> 
+  <a href="https://visualstudio.microsoft.com/tr/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/6668-.webp" title="VisualStudio" alt="VisualStudio" width="50" height="40"/> &nbsp; </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;  </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
