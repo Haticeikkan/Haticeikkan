@@ -25,11 +25,11 @@
 ### :woman_technologist: About Me :
 I am a Software Developer  from Turkey.
 
-- 🎓 As oj June 2022, I graduated from Sakarya University Information Systems Engineering .
+- 🎓 As of June 2022, I graduated from Sakarya University Information Systems Engineering .
 
 - :telescope: I am interested in frontend and backend for building web applications.
 
-- 🖥️  I love writing code and learn anythings about it.
+- 🖥️  I love writing code and learn everything about it.
 
 - :zap: I'm always trying to improve myself.
 
